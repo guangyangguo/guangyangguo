@@ -16,6 +16,12 @@ I'm **Guangyang Guo**, a developer who enjoys turning curious ideas into useful,
 
 I work across Python, AI applications, and backend development. My research background occasionally informs what I build, but this space is mostly for sharing practical experiments, tools, and things I find worth making.
 
+## Research interests
+
+I am interested in making AI systems more dependable beyond the lab:
+
+`Vision–language models` · `Multimodal learning` · `Adversarial robustness` · `Test-time adaptation`
+
 <table>
   <tr>
     <td width="50%" valign="top">
