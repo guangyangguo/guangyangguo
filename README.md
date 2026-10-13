@@ -12,13 +12,9 @@
 
 ## Hello there 👋
 
-I'm **Guangyang Guo**, a developer who enjoys turning curious ideas into useful, well-crafted software.
+I'm Guangyang Guo, a developer who enjoys turning curious ideas into useful, well-crafted software. I focus on **AI Agents and backend development**, with experience working in Python and AI application building. My research background occasionally informs what I build, but this space is mostly for sharing practical experiments, tools, and things I find worth making.
 
-I work across Python, AI applications, and backend development. My research background occasionally informs what I build, but this space is mostly for sharing practical experiments, tools, and things I find worth making.
-
-## Research interests
-
-I am interested in making AI systems more dependable beyond the lab:
+## My Research Direction
 
 `Vision–language models` · `Multimodal learning` · `Adversarial robustness` · `Test-time adaptation`
 
@@ -35,7 +31,7 @@ I am interested in making AI systems more dependable beyond the lab:
     <td width="50%" valign="top">
       <h3>Current toolkit</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=python,pytorch,flask,postgres,docker,git&theme=dark" alt="Python, PyTorch, Flask, PostgreSQL, Docker and Git" />
+        <img src="https://skillicons.dev/icons?i=python,java,postgres,docker,git&theme=dark" alt="Python, Java, PostgreSQL, Docker and Git" />
       </p>
     </td>
   </tr>
