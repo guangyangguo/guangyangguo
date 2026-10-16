@@ -1,6 +1,6 @@
 <svg width="1280" height="300" viewBox="0 0 1280 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Guangyang Guo</title>
-  <desc id="desc">A dark blue personal profile banner with an abstract constellation pattern.</desc>
+  <title id="title">Building thoughtful things</title>
+  <desc id="desc">A dark blue banner with an abstract constellation pattern.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1280" y2="300" gradientUnits="userSpaceOnUse">
       <stop stop-color="#09111F"/>
@@ -27,7 +27,6 @@
     <path d="M850 92L911 62L987 116L1051 58L1113 91L1178 48"/>
   </g>
   <circle cx="1052" cy="59" r="34" fill="#34D399" fill-opacity=".15" filter="url(#blur)"/>
-  <text x="82" y="132" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" letter-spacing="-1">Guangyang Guo</text>
-  <text x="84" y="171" fill="#A8BED7" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="1.8">BUILDING THOUGHTFUL THINGS</text>
-  <rect x="84" y="199" width="48" height="3" rx="1.5" fill="#34D399"/>
+  <text x="84" y="157" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" letter-spacing="1.8">BUILDING THOUGHTFUL THINGS</text>
+  <rect x="84" y="185" width="58" height="3" rx="1.5" fill="#34D399"/>
 </svg>
