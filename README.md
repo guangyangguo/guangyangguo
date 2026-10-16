@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Guangyang Guo — building thoughtful things" width="100%" />
+  <img src="./assets/banner.svg" alt="Building Thoughtful Things" width="100%" />
 </div>
 
 <br />
