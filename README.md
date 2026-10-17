@@ -12,7 +12,7 @@
 
 ## Hello there 👋
 
-I'm Guangyang Guo, a developer who enjoys turning curious ideas into useful, well-crafted software. I focus on **AI Agents and backend development**, with experience working in Python and AI application building. My research background occasionally informs what I build, but this space is mostly for sharing practical experiments, tools, and things I find worth making.
+I'm ggy, a developer who enjoys turning curious ideas into useful, well-crafted software. I focus on **AI Agents and backend development**, with experience working in Python and AI application building. My research background occasionally informs what I build, but this space is mostly for sharing practical experiments, tools, and things I find worth making.
 
 ## My Research Direction
 
